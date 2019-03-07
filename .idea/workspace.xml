@@ -131,18 +131,6 @@
               <item name="raspberry_env" type="462c0819:PsiDirectoryNode" />
               <item name="raspberry_NAS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="raspberry_env" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_env" type="462c0819:PsiDirectoryNode" />
-              <item name="raspberry_NAS" type="462c0819:PsiDirectoryNode" />
-              <item name="ras_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="raspberry_env" type="b2602c69:ProjectViewProjectNode" />
-              <item name="raspberry_env" type="462c0819:PsiDirectoryNode" />
-              <item name="raspberry_NAS" type="462c0819:PsiDirectoryNode" />
-              <item name="raspberry_NAS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,16 +167,15 @@
       <workItem from="1551493680246" duration="2795000" />
       <workItem from="1551868446808" duration="6780000" />
       <workItem from="1551927952036" duration="3075000" />
-      <workItem from="1551931068430" duration="2077000" />
+      <workItem from="1551931068430" duration="2751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14727000" />
+    <option name="totallyTimeSpent" value="15401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -203,8 +190,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.318872" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.31995663" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.31995663" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32889965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
